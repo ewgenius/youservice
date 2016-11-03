@@ -1,1 +1,3 @@
-console.log('server');
+"use strict";
+const keystone = require('keystone');
+keystone.init({});
